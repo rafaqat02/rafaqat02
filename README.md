@@ -23,6 +23,9 @@
 <img src="https://raw.githubusercontent.com/rafaqat02/rafaqat02/output/snake.svg" alt="Snake animation" />
 </picture>
 
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/rafaqat02/rafaqat02/blob/output/snake.svg)
 
 
 ### 🔝 Top Contributed Repo
