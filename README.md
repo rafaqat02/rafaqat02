@@ -16,7 +16,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rafaqat02&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
-## snake
+### 🐍 GitHub Contribution Snake
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="ttps://raw.githubusercontent.com/rafaqat02/rafaqat02/output/snake.svg"></source>
 <source media="(prefers-color-scheme: light)" srcset="ttps://raw.githubusercontent.com/rafaqat02/rafaqat02/output/snake.svg"></source>
